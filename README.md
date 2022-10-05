@@ -21,8 +21,8 @@ A popup appears which is the Graphical User Interface for the project
 
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Video
 
-<a href="(https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)">
-    <img src="(https://img.youtube.com/vi/qd1IgAvZp9c/0.jpg)](https://www.youtube.com/watch?v=qd1IgAvZp9c)">
+<a href="https://www.youtube.com/watch?v=qd1IgAvZp9c">
+    <img src="https://img.youtube.com/vi/qd1IgAvZp9c/0.jpg)">
 </a>
 
 
