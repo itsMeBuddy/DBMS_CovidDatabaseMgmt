@@ -18,4 +18,5 @@ Run the attached "GUI.py" file
 
 A popup appears which is the Graphical User Interface for the project
 
-#Click -> [![Demo](https://img.youtube.com/vi/qd1IgAvZp9c/0.jpg)](https://www.youtube.com/watch?v=qd1IgAvZp9c&ab_channel=--Uploads)
+#Click -> 
+[![Demo](https://img.youtube.com/vi/qd1IgAvZp9c/0.jpg)](https://www.youtube.com/watch?v=qd1IgAvZp9c&ab_channel=--Uploads)
