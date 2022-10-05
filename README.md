@@ -18,8 +18,7 @@ Run the attached "GUI.py" file
 
 A popup appears which is the Graphical User Interface for the project
 
-#Click -> 
-[![Demo](https://img.youtube.com/vi/qd1IgAvZp9c/0.jpg)](https://www.youtube.com/watch?v=qd1IgAvZp9c&ab_channel=--Uploads)
 
-# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Stargazers
+
+# <img src="https://img.youtube.com/vi/qd1IgAvZp9c/0.jpg" width=auto height="50px"> Video
 
